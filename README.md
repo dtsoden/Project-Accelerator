@@ -1,11 +1,6 @@
 # Project for the web Accelerator
 The Project for the web Accelerator applies useful customizations to the Project for the web Power App. The Accelerator can _easily_ be deployed to any environment that has Project for the web already in it. Scenarios included in the Accelerator are...
 
-**Installation Video (Coming Soon)
-Video Content goes here
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-
 💡 **Project Requests**. Create a list of ideas for Projects that include a business case and expected impact. The included Power Automate flow will create projects whenever the state of requests is set to _Approved_.
 
 💼 **Programs**. Create a heirarchy of programs and projects see how work fits into the bigger picture.
@@ -17,6 +12,15 @@ Video Content goes here
 📝 **Status**. Centralize recording of project status to keep stakeholders up-to-date.
 
 This repository also contains a Power BI template that can be deployed alongside the Accelerator. For the best experience, deploy the Accelerator, then deploy the Power BI content pack, and finally, customize the Accelerator to use the deployed Power BI report. **Follow the instructions below to get started!**
+
+---
+
+#Installation Video (Coming Soon)
+Video Content goes here
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
+---
 
 ---
 
