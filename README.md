@@ -15,7 +15,7 @@ This repository also contains a Power BI template that can be deployed alongside
 
 ---
 
-# Installation Video (Coming Soon)
+# Installation Video
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/zy9s0eogNZU/mqdefault.jpg?v=61a10709&sqp=CPjFhI0G&rs=AOn4CLCYQIhqV-JEznnDCH6frZjIJLEIXg)](https://youtu.be/zy9s0eogNZU)
 
 
