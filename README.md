@@ -16,10 +16,10 @@ This repository also contains a Power BI template that can be deployed alongside
 ---
 
 # Installation Video
-[![Install Project Accelerator for Power Platform](https://i9.ytimg.com/vi/zy9s0eogNZU/mqdefault.jpg?v=61a10709&sqp=COiti40G&rs=AOn4CLC0QqdcMxioZIb-cHKyJJ4ClvG9KA)](https://youtu.be/zy9s0eogNZU)
+[![Install Project Accelerator for Power Platform](https://github.com/dtsoden/Project-Accelerator/blob/main/mq2.jpg)](https://youtu.be/zy9s0eogNZU)
 
 # How to customize the Front End Accelerator Request Form
-[![How to customize](https://i9.ytimg.com/vi/cFe-70RHMN0/mq2.jpg?sqp=CJSwi40G&rs=AOn4CLALWxNn16vArscLbEiH29NU5k_kRw)](https://youtu.be/cFe-70RHMN0)
+[![How to customize](https://github.com/dtsoden/Project-Accelerator/blob/main/mqdefault.jpg)](https://youtu.be/cFe-70RHMN0)
 
 
 ---
